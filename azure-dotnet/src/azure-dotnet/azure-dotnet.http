@@ -1,0 +1,6 @@
+@azure_dotnet_HostAddress = http://localhost:5129
+
+GET {{azure_dotnet_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

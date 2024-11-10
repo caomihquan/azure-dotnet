@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "RL5X8+17G668kMYRz9BjfHMZLCmR9vavxnQ2Ukismio=",
+  "Source": "azure-dotnet",
+  "BasePath": "_content/azure-dotnet",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
